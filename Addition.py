@@ -1,14 +1,8 @@
+print("Enter First No:")
+No1 = input()
 
-no1 = 0
-no2 = 0
-Ans = 0
+print("Enter Second no:")
+No2 = input()
 
-print("Enter First number :")
-no1 = input()
-
-print("Enter Second number :")
-no2 = input()
-
-Ans = no1 + no2
-
+Ans = No1 + No2
 print("Addition is :",Ans)
